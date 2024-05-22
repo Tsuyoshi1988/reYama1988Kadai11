@@ -12,7 +12,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var prefectureLabel: UILabel!
     
     @IBAction func Choose( _ sendr: Any) {
-        
     }
     
     @IBAction func exitFromTableByTapCell(segue:UIStoryboardSegue) {
